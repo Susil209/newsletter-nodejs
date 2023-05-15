@@ -63,7 +63,7 @@ Direct link to files used : https://mailchimp.com/developer/marketing/api/lists/
 
 */
 
-
+// Note: Use a Procfile, a text file in the root directory of your application, to explicitly declare what command should be executed to start your app.
 
 
 const express = require("express");
